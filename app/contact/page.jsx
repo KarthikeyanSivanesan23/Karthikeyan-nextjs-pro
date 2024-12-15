@@ -90,7 +90,7 @@ Message: ${message}`;
               </div>
               <Select name="service">
                 <SelectTrigger className="w-full">
-                  <SelectValue placeholder="Select a service" />
+                  <SelectValue placeholder="Your Domain" />
                 </SelectTrigger>
                 <SelectContent>
                   <SelectGroup>
