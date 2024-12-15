@@ -94,7 +94,7 @@ Message: ${message}`;
                 </SelectTrigger>
                 <SelectContent>
                   <SelectGroup>
-                    <SelectLabel>Your Domain</SelectLabel>
+                    
                     <SelectItem value="Web Development">Web Development</SelectItem>
                     <SelectItem value="Hiring Team">Hiring Team</SelectItem>
                     <SelectItem value="Students/Freshers">Students/Freshers</SelectItem>
